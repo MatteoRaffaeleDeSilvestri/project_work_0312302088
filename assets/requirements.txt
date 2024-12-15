@@ -1,0 +1,6 @@
+dash
+pandas
+numpy
+openmeteo-requests
+requests-cache 
+retry-requests
